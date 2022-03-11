@@ -1,0 +1,1 @@
+For reference, the discord bot and API handle the databases automatically, there shouldn't be a reason for you to manually make changes to the database apart from clearing it. There are commands for most actions you'd want to take.
